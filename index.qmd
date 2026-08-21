@@ -1,0 +1,21 @@
+---
+title: "Knut W. Heimdal"
+---
+
+I am a PhD candidate in economics at the University of Oslo.
+
+My research interests are [FIELDS, e.g. labor economics and the economics of the family].
+
+Contact: <span id="email"><noscript>knut.heimdal (at) gmail.com</noscript></span> · [Download CV (PDF)](files/cv.pdf)
+
+```{=html}
+<script>
+(function () {
+  var a = atob("a251dC5oZWltZGFsQGdtYWlsLmNvbQ==");
+  document.getElementById("email").innerHTML = '<a href="mailto:' + a + '">' + a + "</a>";
+})();
+</script>
+```
+
+<!-- Portrait: put a photo at files/portrait.jpg and uncomment the line below. -->
+<!-- ![](files/portrait.jpg){width=180} -->

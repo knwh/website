@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - files/
+    - CNAME
+
+website:
+  title: "Knut W. Heimdal"
+  search: false
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
