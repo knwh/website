@@ -1,5 +1,0 @@
----
-title: "Teaching"
----
-
-- [COURSE CODE: Course name], teaching assistant, [Institution], [semester and year].
