@@ -1,0 +1,55 @@
+---
+title: "Knut Ward Heimdal"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.2cm
+      y: 2.2cm
+    fontsize: 10.5pt
+---
+
+PhD Candidate in Economics, University of Oslo\
+knut.heimdal (at) gmail.com · [knutheimdal.no](https://knutheimdal.no)
+
+## Position
+
+**PhD Research Fellow, Department of Economics, University of Oslo**, 2021–present. Research on fiscal policy, wage formation, and fertility using Norwegian registry data. Advisor: Martin Blomhoff Holm. Expected PhD completion: autumn 2027 (position extended by parental leave).
+
+## Education
+
+**MA in Economics**, University of Oslo, 2017–2019. Coursework in public economics, monetary policy, statistics, and the PhD course in applied microeconometrics. Thesis on the employment effects of chatbots.
+
+**BA in International Studies**, University of Oslo, 2013–2017. Specialization in economics; thesis on Bitcoin and monetary theory.
+
+**Exchange year, Freie Universität Berlin**, 2014–2015. Economics and international relations, taught mainly in German.
+
+## Research in progress
+
+**Field of Study and Fertility.** The causal effect of field of study on women's fertility timing, identified from admission cutoffs in Norway's centralized university admission system.
+
+**Permanent Local Fiscal Multipliers** (with Amund H. Kordt and Martin B. Holm). Local government spending multipliers estimated from municipal fiscal shocks in Norwegian administrative data.
+
+**Wage Determination and Coordination** (with Amund H. Kordt). The role of coordination in wage setting for aggregate outcomes; a minimal model tested on Norwegian and OECD data.
+
+## Professional experience
+
+**Adviser, Norwegian Ministry of Finance**, 2019–2021. National budget work in the Budget Department, covering the portfolio of the Ministry of Education and Research; drafted and presented the ministry's assessments of budget proposals for government deliberation.
+
+**Student engagement, Monetary Policy Department, Norges Bank**, 2017–2019 (part-time). Contributed to the Monetary Policy Report in the unit for analysis and forecasting of the Norwegian economy.
+
+**Coordinator and speaker, Confederation of Norwegian Enterprise (NHO)**, 2015–2017 (part-time). Delivered NHO's educational programmes on Norwegian business and Norway's relationship with the EU.
+
+**Journalist**, Vårt Land (2017, politics and world desk) and Universitas (2016–2017, news).
+
+## Teaching
+
+**University of Oslo.** Master's level: macroeconomics and monetary policy (primary assignments), econometrics, labor economics, and corporate governance, 2021–present. Bachelor's level: seminar leader in Macroeconomic Analysis, 2017.
+
+## Service
+
+Board member, Department of Economics, University of Oslo, representing temporary academic staff, 2023–2027.
+
+## Languages
+
+Norwegian (native) · English (fluent) · German (proficient)

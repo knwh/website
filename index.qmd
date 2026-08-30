@@ -2,9 +2,10 @@
 title: "Knut W. Heimdal"
 ---
 
-I am a PhD candidate in economics at the University of Oslo.
+<!-- Photo goes live once files/portrait.jpg exists: -->
+<!-- ![](files/portrait.jpg){style="float: right; width: 190px; max-width: 40%; margin: 0.3rem 0 1rem 1.5rem; border-radius: 4px;"} -->
 
-My research interests are [FIELDS, e.g. labor economics and the economics of the family].
+I am a PhD candidate at the [Department of Economics, University of Oslo](https://www.sv.uio.no/econ/english/). I work on fiscal policy, wage formation, and fertility, using Norwegian registry data. My advisor is Martin Blomhoff Holm, and I expect to complete my PhD in the autumn of 2027.
 
 Contact: <span id="email"><noscript>knut.heimdal (at) gmail.com</noscript></span> · [Download CV (PDF)](files/cv.pdf)
 
@@ -16,6 +17,3 @@ Contact: <span id="email"><noscript>knut.heimdal (at) gmail.com</noscript></span
 })();
 </script>
 ```
-
-<!-- Portrait: put a photo at files/portrait.jpg and uncomment the line below. -->
-<!-- ![](files/portrait.jpg){width=180} -->

@@ -2,4 +2,7 @@
 title: "Teaching"
 ---
 
-- [COURSE CODE: Course name], teaching assistant, [Institution], [semester and year].
+All at the University of Oslo:
+
+- Master's level: macroeconomics and monetary policy (primary assignments), and also econometrics, labor economics, and corporate governance. Teaching assistant, 2021–present.
+- Bachelor's level: Macroeconomic Analysis, seminar leader, 2017.
