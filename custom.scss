@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+$body-color: #1f1f1f;
+$link-color: #14507a;
+$link-decoration: none;
+$link-hover-decoration: underline;
+$grid-body-width: 740px;
+$navbar-bg: #ffffff;
+$navbar-fg: #1f1f1f;
+$navbar-hl: #14507a;
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 1px solid #e6e6e6;
+}
+.navbar-title {
+  font-weight: 600;
+}
+h1.title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+}
