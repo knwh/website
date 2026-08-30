@@ -2,8 +2,7 @@
 title: "Knut W. Heimdal"
 ---
 
-<!-- Photo goes live once files/portrait.jpg exists: -->
-<!-- ![](files/portrait.jpg){style="float: right; width: 190px; max-width: 40%; margin: 0.3rem 0 1rem 1.5rem; border-radius: 4px;"} -->
+![](files/portrait.jpg){style="float: right; width: 190px; max-width: 40%; margin: 0.3rem 0 1rem 1.5rem; border-radius: 4px;" fig-alt="Portrait of Knut W. Heimdal"}
 
 I am a PhD candidate at the [Department of Economics, University of Oslo](https://www.sv.uio.no/econ/english/). I work on fiscal policy, wage formation, and fertility, using Norwegian registry data. My advisor is Martin Blomhoff Holm, and I expect to complete my PhD in the autumn of 2027.
 
