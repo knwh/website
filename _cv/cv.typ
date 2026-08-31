@@ -49,7 +49,7 @@
 
 #entry([*Adviser, Norwegian Ministry of Finance*], [2019--2021], body: [National budget work in the Budget Department, covering the portfolio of the Ministry of Education and Research; drafted and presented the ministry's assessments of budget proposals for government deliberation.])
 
-#entry([*Part-time positions during studies*], [2015--2019], body: [Student engagement, Monetary Policy Department, Norges Bank (2017--2019, contributed to the Monetary Policy Report); coordinator and speaker, NHO (2015--2017); journalist, Vårt Land and Universitas (2016--2017).])
+#entry([*Part-time positions during studies*], [2015--2019], body: [Research assistant, Monetary Policy Department, Norges Bank (2017--2019, contributed to the Monetary Policy Report); coordinator and speaker, NHO (2015--2017); journalist, Vårt Land and Universitas (2016--2017).])
 
 = Teaching
 
