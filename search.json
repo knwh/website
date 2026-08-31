@@ -4,41 +4,34 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "[COURSE CODE: Course name], teaching assistant, [Institution], [semester and year]."
+    "text": "All at the University of Oslo:\n\nMaster’s level: macroeconomics and monetary policy (primary assignments), and also econometrics, labor economics, and corporate governance. Teaching assistant, 2021–present.\nBachelor’s level: Macroeconomic Analysis, seminar leader, 2017."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Knut W. Heimdal",
     "section": "",
-    "text": "I am a PhD candidate in economics at the University of Oslo.\nMy research interests are [FIELDS, e.g. labor economics and the economics of the family].\nContact: knut.heimdal (at) gmail.com · Download CV (PDF)"
+    "text": "I am a PhD candidate at the Department of Economics, University of Oslo. I work on fiscal policy, wage formation, and fertility, using Norwegian registry data. My advisor is Martin Blomhoff Holm, and I expect to complete my PhD in the autumn of 2027.\nContact: knut.heimdal (at) gmail.com · Download CV (PDF)"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download my CV (PDF), last updated [MONTH YEAR]."
+    "text": "Download my CV (PDF), last updated August 2026."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "[Paper title] (with [Coauthors])\n[Two or three sentences of abstract.]\nDraft (PDF)"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "[Paper title] (with [Coauthors])\n[Two or three sentences of abstract.]\nDraft (PDF)"
+    "text": "Field of Study and Fertility\nUsing Norwegian centralized-admission cutoffs, this project estimates the causal effect of field of study on women’s fertility timing. For applicants near a programme’s threshold, admission to the preferred rather than the next-best field is quasi-random; fuzzy-RD/2SLS estimates in the Kirkebøen–Leuven–Mogstad tradition show that completing some fields substantially delays childbearing at 8–12-year horizons. The project then investigates mechanisms behind this bundled effect. The sharpest prior, that steeper wage growth raises the career cost of early births, returns a precise null in register earnings data, redirecting attention to study length, workplace flexibility, and partner-market channels.\nPermanent Local Fiscal Multipliers (with Amund H. Kordt and Martin B. Holm)\nWe estimate local government spending multipliers using Norwegian administrative data. Combining identified municipal fiscal policy shocks with a reform of the municipal income system, we estimate the heterogeneous dynamic response of gross product across geographical units and sectors of the economy. Multipliers increase with the home bias in consumption, indicating that the size of the spending multiplier is closely linked to import leakages. Public spending affects the public sector first, before the multiplier builds up in the private sector. We build a model consistent with these findings to interpret the results.\nWage Determination and Coordination (with Amund H. Kordt)\nEarly-stage project on the role of coordination in wage setting for aggregate outcomes. We build a deliberately minimal model of the mechanisms and test its predictions in Norwegian registry data and OECD data."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
-    "section": "Work in progress",
-    "text": "Work in progress\n[Project title]\n[One line on the question and the data.]"
+    "section": "",
+    "text": "Field of Study and Fertility\nUsing Norwegian centralized-admission cutoffs, this project estimates the causal effect of field of study on women’s fertility timing. For applicants near a programme’s threshold, admission to the preferred rather than the next-best field is quasi-random; fuzzy-RD/2SLS estimates in the Kirkebøen–Leuven–Mogstad tradition show that completing some fields substantially delays childbearing at 8–12-year horizons. The project then investigates mechanisms behind this bundled effect. The sharpest prior, that steeper wage growth raises the career cost of early births, returns a precise null in register earnings data, redirecting attention to study length, workplace flexibility, and partner-market channels.\nPermanent Local Fiscal Multipliers (with Amund H. Kordt and Martin B. Holm)\nWe estimate local government spending multipliers using Norwegian administrative data. Combining identified municipal fiscal policy shocks with a reform of the municipal income system, we estimate the heterogeneous dynamic response of gross product across geographical units and sectors of the economy. Multipliers increase with the home bias in consumption, indicating that the size of the spending multiplier is closely linked to import leakages. Public spending affects the public sector first, before the multiplier builds up in the private sector. We build a model consistent with these findings to interpret the results.\nWage Determination and Coordination (with Amund H. Kordt)\nEarly-stage project on the role of coordination in wage setting for aggregate outcomes. We build a deliberately minimal model of the mechanisms and test its predictions in Norwegian registry data and OECD data."
   }
 ]
