@@ -6,12 +6,22 @@ title: "Research"
 
 **Field of Study and Fertility**
 
+*Working paper coming soon.*
+
+::: {.abstract}
 Using Norwegian centralized-admission cutoffs, this project estimates the causal effect of field of study on women's fertility timing. For applicants near a programme's threshold, admission to the preferred rather than the next-best field is quasi-random; fuzzy-RD/2SLS estimates in the Kirkebøen–Leuven–Mogstad tradition show that completing some fields substantially delays childbearing at 8–12-year horizons. The project then investigates mechanisms behind this bundled effect. The sharpest prior, that steeper wage growth raises the career cost of early births, returns a precise null in register earnings data, redirecting attention to study length, workplace flexibility, and partner-market channels.
+:::
 
 **Permanent Local Fiscal Multipliers** (with Amund H. Kordt and Martin B. Holm)
 
+*Working paper coming soon.*
+
+::: {.abstract}
 We estimate local government spending multipliers using Norwegian administrative data. Combining identified municipal fiscal policy shocks with a reform of the municipal income system, we estimate the heterogeneous dynamic response of gross product across geographical units and sectors of the economy. Multipliers increase with the home bias in consumption, indicating that the size of the spending multiplier is closely linked to import leakages. Public spending affects the public sector first, before the multiplier builds up in the private sector. We build a model consistent with these findings to interpret the results.
+:::
 
 **Wage Determination and Coordination** (with Amund H. Kordt)
 
+::: {.abstract}
 Early-stage project on the role of coordination in wage setting for aggregate outcomes. We build a deliberately minimal model of the mechanisms and test its predictions in Norwegian registry data and OECD data.
+:::
