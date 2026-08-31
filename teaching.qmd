@@ -5,4 +5,4 @@ title: "Teaching"
 Taught seminars at the University of Oslo in the following courses:
 
 - Master's level: macroeconomics, monetary policy, econometrics, labor economics, and corporate governance.
-- Bachelor's level: Macroeconomic Analysis, and the bachelor thesis course in International Studies.
+- Bachelor's level: Macroeconomic Analysis and a bachelor thesis course in international studies.
