@@ -2,13 +2,13 @@
 #set text(size: 10.5pt)
 #set par(justify: true)
 
-#show heading.where(level: 1): it => [
-  #v(12pt, weak: true)
-  #text(size: 12pt, weight: "semibold")[#smallcaps(it.body)]
-  #v(-8pt)
-  #line(length: 100%, stroke: 0.5pt)
-  #v(4pt, weak: true)
-]
+#show heading.where(level: 1): it => block(above: 16pt, below: 7pt,
+  stack(
+    spacing: 1.5pt,
+    text(size: 12pt, weight: "semibold", smallcaps(it.body)),
+    line(length: 100%, stroke: 0.5pt),
+  )
+)
 
 #let entry(title, date, body: none) = {
   grid(
